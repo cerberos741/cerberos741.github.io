@@ -4,3 +4,7 @@ h1 {
   padding: auto;
 }
 
+#navbar {
+  background-color: gray;
+  text-align: center;
+}
