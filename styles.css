@@ -1,6 +1,7 @@
 * {
   font-family:Arial, Helvetica, sans-serif;
   background-color: whitesmoke;
+  text-align: center;
 }
 
 h1 {
@@ -24,6 +25,7 @@ h1 {
   border-radius: 20px;
   background-color: lightblue;
   color: black;
+  padding:5px;
 }
 
 a:hover {
@@ -41,14 +43,14 @@ a:hover {
 
 address {
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 address a {
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  padding-top: 5px;
   text-decoration: none;
   color: black;
   font-weight: bold;
